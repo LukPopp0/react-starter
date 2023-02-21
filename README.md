@@ -1,2 +1,2 @@
-# react-starter
-A blueprint for a website built with react, scss and other tools I commonly use.
+# React Starter
+A blueprint for a react-based website initialized with vite including my commonly used tools.
